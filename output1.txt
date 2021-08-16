@@ -1,0 +1,118 @@
+TIME :   0 customer#1 arrive
+
+TIME :   0 customer#1 begin
+
+TIME :   3 customer#1 end
+
+TIME :   8 customer#2 arrive
+
+TIME :   8 customer#2 begin
+
+TIME :  14 customer#2 end
+
+TIME :  14 customer#3 arrive
+
+TIME :  14 customer#3 begin
+
+TIME :  17 customer#3 end
+
+TIME :  55 customer#4 arrive
+
+TIME :  55 customer#4 begin
+
+TIME :  67 customer#4 end
+
+TIME :  72 customer#5 arrive
+
+TIME :  72 customer#5 begin
+
+TIME :  81 customer#5 end
+
+TIME :  91 customer#6 arrive
+
+TIME :  91 customer#6 begin
+
+TIME :  92 customer#6 end
+
+TIME :  94 customer#7 arrive
+
+TIME :  94 customer#7 begin
+
+TIME :  97 customer#7 end
+
+TIME :  98 customer#8 arrive
+
+TIME :  98 customer#8 begin
+
+TIME : 101 customer#9 arrive
+
+TIME : 108 customer#10 arrive
+
+TIME : 112 customer#11 arrive
+
+TIME : 123 customer#12 arrive
+
+TIME : 134 customer#13 arrive
+
+TIME : 142 customer#8 end
+
+TIME : 142 customer#9 begin
+
+TIME : 142 customer#14 arrive
+
+TIME : 143 customer#9 end
+
+TIME : 143 customer#10 begin
+
+TIME : 144 customer#15 arrive
+
+TIME : 145 customer#16 arrive
+
+TIME : 148 customer#10 end
+
+TIME : 148 customer#11 begin
+
+TIME : 150 customer#17 arrive
+
+TIME : 163 customer#11 end
+
+TIME : 163 customer#12 begin
+
+TIME : 167 customer#12 end
+
+TIME : 167 customer#13 begin
+
+TIME : 169 customer#13 end
+
+TIME : 169 customer#14 begin
+
+TIME : 170 customer#14 end
+
+TIME : 170 customer#15 begin
+
+TIME : 174 customer#15 end
+
+TIME : 174 customer#16 begin
+
+TIME : 175 customer#16 end
+
+TIME : 175 customer#17 begin
+
+TIME : 177 customer#17 end
+
+TIME : 178 customer#18 arrive
+
+TIME : 178 customer#18 begin
+
+TIME : 181 customer#18 end
+
+TIME : 198 customer#19 arrive
+
+TIME : 198 customer#19 begin
+
+TIME : 199 customer#20 arrive
+
+TIME : 202 customer#19 end
+
+TIME : 202 customer#20 begin
+

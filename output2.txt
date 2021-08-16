@@ -1,0 +1,4 @@
+throughput = 0.099910
+utilization = 0.499674
+mean no. in system = 0.895892
+mean residence time = 8.966949
